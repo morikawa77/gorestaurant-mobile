@@ -54,6 +54,10 @@ This will be an application that will connect to a Fake API, and display and fil
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 11af8dbc4762c684e75c34e84b3b5792eb1f59b1
 <img alt="GoStack" src=".github/go-restaurant.jpg" style="width: 100%;"/>
 ---
 
