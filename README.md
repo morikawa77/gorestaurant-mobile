@@ -52,6 +52,8 @@ This will be an application that will connect to a Fake API, and display and fil
 -**`should be able to decrement an extra item quantity`**: In order for this test to pass, you must allow the amount of an extra ingredient on the` FoodDetails` page to be decreased by 1 based on your id.
 
 
+
+
 <img alt="GoStack" src=".github/go-restaurant.jpg" style="width: 100%;"/>
 ---
 
